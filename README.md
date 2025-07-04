@@ -26,7 +26,7 @@ I'm a results-driven software developer with a strong work ethic and a passion f
 ---
 
 ## 🌐 Portfolio & Links
-- 🔗 **Website: Coming SOON**
+- 🔗 **Website: [Solomon's Portfolio](https://sadsalmonnn.github.io/SolomonPortfolio/)**
 - 💼 **LinkedIn:** [Solomon Ador-Dionisio](https://linkedin.com/in/solomon-ador-dionisio)  
 - 📧 **Email:** solomon.adord@gmail.com  
 
