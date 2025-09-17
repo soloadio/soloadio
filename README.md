@@ -5,14 +5,14 @@ I'm a results-driven software developer with a strong work ethic and a passion f
 ---
 
 ## 📚 Currently Learning
-- 📘 **Agile Software Engineering**  
-  Practicing agile methodologies for building scalable software in fast-paced teams. Learning more about requirements gathering, user stories, estimation, prioritization, UML, design patterns, and secure development practices.
+- 📊 **STA260H5 • Probability and Statistics II**  
+  Building on foundational statistical theory and methodology. Topics include sampling distributions, point estimation, confidence intervals, hypothesis testing, unbiasedness, consistency, sufficiency, exponential families, Fisher information, Cramer-Rao inequality, and simple linear models.
 
-- 🔐 **Modern Information Security**  
-  Deepening understanding of common software vulnerabilities, secure coding techniques, cryptographic fundamentals, OS-level protections, and tools to defend against network threats.
+- 🤖 **CSC311H5 • Introduction to Machine Learning**  
+  Learning methods for automated pattern recognition and prediction from empirical data. Topics include classification and regression with nearest neighbor methods, decision trees, linear models, neural networks, clustering algorithms, overfitting, and accuracy assessment.
 
-- 🗄️ **Relational Databases & SQL**  
-  Practicing database design, normalization, and integrity constraints. Building robust applications using SQL, and learning how modern database engines handle query processing and transactions.
+- 🎨 **CCT477H5 • UX Design – Understanding Users**  
+  Exploring user experiences and interactions with digital technologies in information-centric societies. Focus on user-centered design principles, participatory design, and techno-centric ethnographies, while considering cultural, societal, ergonomic, and economic factors.
 
 ---
 
