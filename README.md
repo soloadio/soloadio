@@ -18,10 +18,11 @@ I'm a results-driven software developer with a strong work ethic and a passion f
 
 ## 💬 Ask Me About
 - Python, C, and Java Projects  
-- JavaFX and JUnit Testing  
+- Django, REST, and Auth
 - Agile Workflows and Scrum  
-- Flask, Bash, Unix/Linux Shell  
-- Visualization and HCI Principles
+- Unix/Linux Shell and Bash  
+- Web Development with Angular and Tailwind  
+- Data Visualization and HCI Principles
 
 ---
 
