@@ -4,7 +4,7 @@ I'm a results-driven software developer with a strong work ethic and a passion f
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Studying at University of Toronto
 - 📊 **STA260H5 • Probability and Statistics II**  
   Building on foundational statistical theory and methodology. Topics include sampling distributions, point estimation, confidence intervals, hypothesis testing, unbiasedness, consistency, sufficiency, exponential families, Fisher information, Cramer-Rao inequality, and simple linear models.
 
